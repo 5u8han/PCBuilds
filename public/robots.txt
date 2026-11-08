@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /prototype-review.html
+Disallow: /api/*
+Sitemap: https://builds.5u8han.dev/sitemap.xml
